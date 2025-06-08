@@ -1,0 +1,46 @@
+👋 Hi, I’m @diptiman-mohanta
+
+🎓 Final-year B.Tech student in Electrical Engineering at Parala Maharaja Engineering College, Berhampur  
+🔬 Former Student Research Associate at Indian Institute of Technology Kanpur & Former Student Research Intern at Defence Institute of Advance Technology-DRDO, Pune
+
+---
+
+👀 I’m interested in:
+- Biomedical Signal Processing
+- Time-Series Classification using Deep Learning
+- Complex-Valued Neural Networks and Custom Loss Functions
+- Time-Frequency Image Generation And Classification
+- Model Explainability in AI for Medical Diagnosis
+
+---
+
+🌱 I’m currently learning:
+- Funnly Connected Complex-Valued Neural Networks
+- Transfer Learning using ViT and Hybrid Models (ResNet + Transformers)  
+- Time-Series Imaging with GASF and GADF for ECG-based Classification  
+- Hyperparameter Optimization and Data Augmentation for Clinical Models
+
+---
+
+🛠️ Skills & Tools:
+- Languages: Python, MATLAB  
+- Frameworks: PyTorch, TensorFlow, OpenCV  
+- Concepts: CNNs, Transformers, Complex-Valued DL, Feature Engineering  
+- Signal Processing: VMD, DWT, STFT 
+- Data Tools: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+- Hardwares: Picoscope, Arduino, Raspberry Pi  
+- Others: LaTeX, Git, GitHub, Jupyter 
+
+---
+
+💞️ I’m looking to collaborate on:
+- Research and development projects in biomedical signal processing  
+- Deep learning applications in ECG/EEG classification  
+- Open-source projects related to time-series classififcation or biomedical AI  
+- Signal-to-image conversion pipelines for AI-based diagnostics  
+
+---
+
+### 📫 How to reach me:
+📧 diptimanmohanta7@gmail.com  
+📍 India
