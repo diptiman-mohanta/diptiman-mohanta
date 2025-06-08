@@ -1,6 +1,6 @@
 👋 Hi, I’m @diptiman-mohanta
 
-🎓 Final-year B.Tech student in Electrical Engineering at Parala Maharaja Engineering College, Berhampur  
+🎓 Electrical Engineering graduate from Parala Maharaja Engineering College, Berhampur  
 🔬 Former Student Research Associate at Indian Institute of Technology Kanpur & Former Student Research Intern at Defence Institute of Advance Technology-DRDO, Pune
 
 ---
