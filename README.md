@@ -15,7 +15,7 @@
 ---
 
 🌱 I’m currently learning:
-- Funnly Connected Complex-Valued Neural Networks
+- Fully Connected Complex-Valued Neural Networks
 - Transfer Learning using ViT and Hybrid Models (ResNet + Transformers)  
 - Time-Series Imaging with GASF and GADF for ECG-based Classification  
 - Hyperparameter Optimization and Data Augmentation for Clinical Models
