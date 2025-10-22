@@ -1,6 +1,9 @@
 👋 Hi, I’m @diptiman-mohanta
 
-🎓 Electrical Engineering graduate from Parala Maharaja Engineering College, Berhampur  
+🎓 Electrical Engineering graduate from Parala Maharaja Engineering College, Berhampur 
+
+🔬 Working as Research Intern at SPIRE Lab, IISc.
+
 🔬 Former Student Research Associate at Indian Institute of Technology Kanpur & Former Student Research Intern at Defence Institute of Advance Technology-DRDO, Pune
 
 ---
@@ -15,10 +18,11 @@
 ---
 
 🌱 I’m currently learning:
-- Fully Connected Complex-Valued Neural Networks
-- Transfer Learning using ViT and Hybrid Models (ResNet + Transformers)  
-- Time-Series Imaging with GASF and GADF for ECG-based Classification  
+- Fully Connected Complex-Valued Neural Networks 
 - Hyperparameter Optimization and Data Augmentation for Clinical Models
+- Text Normalization in Indic Languages
+- Image Segmentation using DL
+- Mathematical modelling of Biological Systems
 
 ---
 
