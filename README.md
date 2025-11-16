@@ -2,7 +2,7 @@
 
 🎓 Electrical Engineering graduate from Parala Maharaja Engineering College, Berhampur 
 
-🔬 Working as Research Intern at SPIRE Lab, IISc.
+🔬 Working as Project Associate at SPIRE Lab, IISc.
 
 🔬 Former Student Research Associate at Indian Institute of Technology Kanpur & Former Student Research Intern at Defence Institute of Advance Technology-DRDO, Pune
 
