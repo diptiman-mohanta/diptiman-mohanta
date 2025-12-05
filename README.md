@@ -1,8 +1,8 @@
-👋 Hi, I’m @diptiman-mohanta
+👋 Hi, I’m diptiman-mohanta
 
 🎓 Electrical Engineering graduate from Parala Maharaja Engineering College, Berhampur 
 
-🔬 Working as Project Associate at SPIRE Lab, IISc.
+🔬 Currently working as Project Associate at SPIRE Lab, IISc.
 
 🔬 Former Student Research Associate at Indian Institute of Technology Kanpur & Former Student Research Intern at Defence Institute of Advance Technology-DRDO, Pune
 
@@ -11,9 +11,10 @@
 👀 I’m interested in:
 - Biomedical Signal Processing
 - Time-Series Classification using Deep Learning
-- Complex-Valued Neural Networks and Custom Loss Functions
+- Complex-Valued Neural Networks
 - Time-Frequency Image Generation And Classification
 - Model Explainability in AI for Medical Diagnosis
+- Langugae Model And Automatic Speech Recognition for Low Resources Indian Language
 
 ---
 
@@ -23,7 +24,7 @@
 - Text Normalization in Indic Languages
 - Image Segmentation using DL
 - Mathematical modelling of Biological Systems
-
+- LLM and ASR 
 ---
 
 🛠️ Skills & Tools:
@@ -41,7 +42,8 @@
 - Research and development projects in biomedical signal processing  
 - Deep learning applications in ECG/EEG classification  
 - Open-source projects related to time-series classififcation or biomedical AI  
-- Signal-to-image conversion pipelines for AI-based diagnostics  
+- Signal-to-image conversion pipelines for AI-based diagnostics
+- Language Model And ASR
 
 ---
 
