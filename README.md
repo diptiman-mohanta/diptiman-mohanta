@@ -33,39 +33,13 @@
 
 ### 💻 Language Statistics
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptiman-mohanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="100%" />
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diptiman-mohanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="50%" />
 
-</td>
-    <td align="center" width="50%">
-      
-**📊 Quick Stats**
-      
-```text
-⭐ Total Stars         13
-🔄 Total Commits       143
-📝 Pull Requests       0
-🐛 Issues              0
-📦 Public Repos        10+
-```
-
-**📈 Language Distribution**
-```text
-Python    ███████████░░   57.33%
-MATLAB    ███████░░░░░░   34.42%
-C++       ██░░░░░░░░░░░    7.68%
-Other     ░░░░░░░░░░░░░    0.57%
-```
-
-</td>
-  </tr>
-</table>
+</div>
 
 ---
-
 
 ### 📅 Commit Calendar
 
@@ -86,7 +60,6 @@ Other     ░░░░░░░░░░░░░    0.57%
 </table>
 
 ---
-
 
 ### 📊 Detailed Activity Graph
 
@@ -127,13 +100,15 @@ class Researcher:
         self.name = "Diptiman Mohanta"
         self.role = "Project Associate"
         self.lab = "SPIRE Lab, IISc"
-        self.focus = "Signal Processing, Machine Learning"
+        self.focus = "Signal Processing, ML"
         
     def expertise(self):
         return {
             "AI": ["Deep Learning", 
-                   "Neural Networks", "Image Processing"],
-            "Signal": ["ECG", "EEG", "Speech"],
+                   "Neural Networks", 
+                   "Image Processing"],
+            "Signal": ["ECG", "EEG", 
+                      "Speech"],
             "Code": ["Python", "MATLAB",
                     "PyTorch", "TensorFlow"]
         }
@@ -176,6 +151,8 @@ class Researcher:
 <summary><b>🔬 Active Research Projects (Click to collapse)</b></summary>
 <br>
 
+> **💡 Note:** This section is manually updated. Last updated: December 2024
+
 <table>
 <tr>
 <td width="50%">
@@ -193,7 +170,7 @@ class Researcher:
 
 #### 🗣️ Language Models & Speech
 - ✅ **Text Normalization in Indic Languages**
-  - Low resources Speech processing
+  - Low resource Speech processing
   - Rule-based and DL approaches
 - ✅ **ASR for Low-Resource Indian Languages**
   - ASR Development
@@ -213,8 +190,8 @@ class Researcher:
   - CNN architectures
   - Multi-class classification
 - ✅ **Time-Frequency Image Generation**
-  - STFT, CWT, Scalograms
-  - Spectrogram analysis
+  - STFT, CWT, Scalograms, GAFs, MTFs
+  - GAF and Spectrogram analysis
 - 🔄 **Advanced Segmentation Techniques**
   - Mask R-CNN
   - Instance segmentation
@@ -236,7 +213,7 @@ class Researcher:
 </tr>
 </table>
 
-**Legend**: ✅ Currently Active | 🔄 In Progress | 📝 Planned for Future
+**Legend**: ✅ Completed/Active | 🔄 In Progress | 📝 Planned
 
 </details>
 
@@ -300,13 +277,13 @@ class Researcher:
 <td align="center" width="25%">
 
 #### 🏥 Medical AI
-Biomedical signal & Image processing and healthcare AI applications
+Biomedical signal & image processing and healthcare AI applications
 
 </td>
 <td align="center" width="25%">
 
 #### 🧠 Deep Learning
-Computer Vision and Signal Processing for General Purpose
+Computer vision and signal processing for general purpose
 
 </td>
 <td align="center" width="25%">
@@ -326,7 +303,7 @@ Research projects and explainable ML
 
 **Interested in collaborating?** I'm always excited to work on:
 - 🔬 **Research Collaborations** - Joint papers and projects
-- 💡 **Innovative Ideas** - Novel approaches to signal & Image processing
+- 💡 **Innovative Ideas** - Novel approaches to signal & image processing
 - 🤝 **Open Source** - Contributing to impactful projects
 
 </div>
@@ -346,12 +323,6 @@ Research projects and explainable ML
 <a href="https://www.linkedin.com/in/diptiman-mohanta-69987b267">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<!-- <a href="#">
-  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
-</a> -->
 <a href="https://orcid.org/0009-0001-4744-8465">
   <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
 </a>
@@ -372,7 +343,6 @@ Research projects and explainable ML
 ### 💭 Daily Developer Inspiration
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 ---
 
