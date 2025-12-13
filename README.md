@@ -31,7 +31,7 @@
 
 ---
 
-### 💻 Language Statistics & Stargazers
+### 💻 Language Statistics
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ Other     ░░░░░░░░░░░░░    0.57%
 ---
 
 
-### 📅 Isometric Commit Calendar
+### 📅 Commit Calendar
 
 <div align="center">
 
