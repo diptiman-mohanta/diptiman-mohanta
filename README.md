@@ -14,18 +14,16 @@
 
 ### 🎯 Profile Summary
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diptiman-mohanta&theme=tokyonight" alt="Profile Summary" width="100%" />
+
 <table>
   <tr>
-    <td align="center" width="50%">
-      
-<img src="https://github-readme-stats.vercel.app/api?username=diptiman-mohanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=58A6FF&text_color=C9D1D9&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="100%" />
-
-</td>
-    <td align="center" width="50%">
-      
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diptiman-mohanta&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak" width="100%" />
-
-</td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diptiman-mohanta&theme=tokyonight" alt="Repos per Language" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diptiman-mohanta&theme=tokyonight" alt="Most Commit Language" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diptiman-mohanta&theme=tokyonight" alt="Stats" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diptiman-mohanta&theme=tokyonight" alt="Productive Time" /></td>
   </tr>
 </table>
 
@@ -343,23 +341,6 @@ Research projects and explainable ML
 ### 💭 Daily Developer Inspiration
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 📊 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diptiman-mohanta&theme=tokyonight" alt="Profile Summary" width="100%" />
-
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diptiman-mohanta&theme=tokyonight" alt="Repos per Language" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diptiman-mohanta&theme=tokyonight" alt="Most Commit Language" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diptiman-mohanta&theme=tokyonight" alt="Stats" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=diptiman-mohanta&theme=tokyonight" alt="Productive Time" /></td>
-  </tr>
-</table>
 
 ---
 
