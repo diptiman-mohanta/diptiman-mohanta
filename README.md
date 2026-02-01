@@ -51,7 +51,7 @@
   <tr>
     <td align="center">
       
-<img src="https://raw.githubusercontent.com/diptiman-mohanta/diptiman-mohanta/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
+![Snake animation](https://raw.githubusercontent.com/diptiman-mohanta/diptiman-mohanta/output/github-contribution-grid-snake-dark.svg)
 
 </td>
   </tr>
