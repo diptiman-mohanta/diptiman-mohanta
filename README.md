@@ -45,7 +45,8 @@
   <tr>
     <td align="center">
       
-![Snake animation](https://raw.githubusercontent.com/diptiman-mohanta/diptiman-mohanta/output/ocean.gif)
+![Snake animation](https://raw.githubusercontent.com/diptiman-mohanta/diptiman-mohanta/output/nokia-snake.gif)
+
 
 </td>
   </tr>
