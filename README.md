@@ -41,11 +41,11 @@
 
 ### 📅 Commit Calendar
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://ghchart.rshah.org/2E9EF7/diptiman-mohanta" alt="Contribution Chart" width="100%" />
 
-</div>
+</div> -->
 
 <table>
   <tr>
