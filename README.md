@@ -51,7 +51,7 @@
   <tr>
     <td align="center">
       
-<img src="https://ssr-contributions-svg.vercel.app/_/diptiman-mohanta?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=40&theme=purple" alt="3D Contribution Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/diptiman-mohanta/diptiman-mohanta/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
 
 </td>
   </tr>
