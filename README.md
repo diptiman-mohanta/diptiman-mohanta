@@ -41,17 +41,11 @@
 
 ### 📅 Commit Calendar
 
-<!-- <div align="center">
-
-<img src="https://ghchart.rshah.org/2E9EF7/diptiman-mohanta" alt="Contribution Chart" width="100%" />
-
-</div> -->
-
 <table>
   <tr>
     <td align="center">
       
-![Snake animation](https://raw.githubusercontent.com/diptiman-mohanta/diptiman-mohanta/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/diptiman-mohanta/diptiman-mohanta/output/ocean.gif)
 
 </td>
   </tr>
